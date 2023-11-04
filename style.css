@@ -35,6 +35,9 @@ body{
 
 .card h1{
     font-size: 45px;
+}
+
+:is(.card) :is(h1, input){
     padding-bottom: 32px;
 }
 
