@@ -77,12 +77,18 @@ input:focus{
 
 input{
     width: 97%;
+    padding-bottom: 32px;
 }
 
 }
+
 @media (max-width: 390px){
 .card{
     height: auto;
+}
+
+.text{
+    margin-bottom: 32px;
 }
 
 }
